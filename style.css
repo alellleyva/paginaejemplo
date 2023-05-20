@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(243, 243, 243);
+}
+
+p {
+    font-size: x-large;
+
+}
+
+p {
+    color: rgb(43, 76, 226);
+}
+
+head {
+    color: chartreuse;
+}
+
+
+h1 {
+    color: rgb(72, 214, 44);
+    font-size: xx-large;
+    text-emphasis-color: ;
+}
+
+.inicio{color: rgb(226, 32, 32);}
+
+.ok{color: rgb(221, 50, 50);}
+
+title{color: crimson;
+      font-size: xx-large;
+}
